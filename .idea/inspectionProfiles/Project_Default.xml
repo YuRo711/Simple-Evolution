@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WEAK WARNING" enabled="true">
+        <option name="ignoredIdentifiers">
+          <list>
+            <option value="BasicLexer.ID" />
+            <option value="FiMLexer.*" />
+            <option value="Lexer.DIVIDE" />
+            <option value="Lexer.*" />
+            <option value="Parser.*" />
+          </list>
+        </option>
+      </scope>
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="BasicLexer.ID" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
